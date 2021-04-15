@@ -13,3 +13,8 @@ Let us save and enjoy the beauty of _nature_ without harming others. Plastic bag
 - [ ] Mumbai
 - [ ] Kolkata
 - [ ] Jaipur
+
+City | State | Language | Covid cases
+--- | --- | --- | ---
+Mumbai | Maharashtra | Marathi | [Cases in Maharashtra](https://www.covid19india.org/state/MH)
+Kolkata | West Bengal | Bengali | [Cases in West Bengal](https://www.covid19india.org/state/WB)
