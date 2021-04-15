@@ -18,3 +18,7 @@ City | State | Language | Covid cases | Images
 --- | --- | --- | --- | ---
 Mumbai | Maharashtra | Marathi | [Cases in Maharashtra](https://www.covid19india.org/state/MH) | ![](https://cdn.britannica.com/26/84526-050-45452C37/Gateway-monument-India-entrance-Mumbai-Harbour-coast.jpg "Taj")
 Kolkata | West Bengal | Bengali | [Cases in West Bengal](https://www.covid19india.org/state/WB) | ![](https://www.holidify.com/images/bgImages/KOLKATA.jpg "Howrah Bridge")
+
+### Adding a image from offline
+
+![](50years.jpg)
