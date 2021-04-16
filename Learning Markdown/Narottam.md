@@ -21,4 +21,4 @@ Kolkata | West Bengal | Bengali | [Cases in West Bengal](https://www.covid19indi
 
 ### Adding a image from offline
 
-![](50years.jpg)
+![](50years.jpg "Meme")
